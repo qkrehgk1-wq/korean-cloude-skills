@@ -44,7 +44,7 @@
 > ChatGPT 번역체 말고, 존댓말·보고 문화·이메일 예절을 아는 한국어 특화입니다.
 > GitHub에 무료 공개했어요. 피드백 환영합니다 🙏
 >
-> 👉 [GitHub 링크]
+> 👉 https://github.com/qkrehgk1-wq/korean-cloude-skills
 
 ---
 
@@ -57,7 +57,7 @@
 > 전부 한국 직장 문화 그대로 처리합니다.
 >
 > 무료 + 오픈소스 👇
-> [GitHub 링크]
+> https://github.com/qkrehgk1-wq/korean-cloude-skills
 >
 > #AI #Claude #생산성 #직장인
 

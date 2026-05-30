@@ -10,13 +10,13 @@ Claude Code의 Skill 디렉토리에 복사하면 자동 인식됩니다.
 
 ```bash
 # 저장소 클론
-git clone https://github.com/<your-id>/korean-claude-skills.git
+git clone https://github.com/qkrehgk1-wq/korean-cloude-skills.git
 
 # 원하는 Skill을 Claude Code skills 폴더로 복사
 # (macOS/Linux)
-cp -r korean-claude-skills/skills/korean-report-summarizer ~/.claude/skills/
+cp -r korean-cloude-skills/skills/korean-report-summarizer ~/.claude/skills/
 # (Windows PowerShell)
-Copy-Item -Recurse korean-claude-skills\skills\korean-report-summarizer "$env:USERPROFILE\.claude\skills\"
+Copy-Item -Recurse korean-cloude-skills\skills\korean-report-summarizer "$env:USERPROFILE\.claude\skills\"
 ```
 
 이제 Claude Code에서 "이 보고서 요약해줘" 라고 하면 Skill이 자동 발동합니다.

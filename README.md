@@ -1,7 +1,13 @@
 # 🇰🇷 Korean Claude Skills — 한국어 업무 자동화 스킬 팩
 
-> *한국 마케터·직장인·1인 사업가를 위한 Claude Skill 모음.*
-> *보고서·카드뉴스·회의록·이메일을 AI가 한국어로 즉시 처리.*
+> *한국 직장인·마케터·1인 사업가를 위한 Claude Skill 5종.*
+> *보고서·카드뉴스·회의록·이메일·코드리뷰를 AI가 한국 비즈니스 맥락 그대로 처리.*
+
+![License](https://img.shields.io/badge/license-MIT-green)
+![Skills](https://img.shields.io/badge/skills-5종-blue)
+![Korean](https://img.shields.io/badge/한국어-특화-red)
+
+**매일 하는 문서 작업, AI에게 시키세요.** ChatGPT의 어색한 번역체 말고, 한국 직장 문화를 아는 5종 Skill.
 
 ---
 
@@ -32,15 +38,17 @@
 
 ---
 
-## 📦 Skill 라인업 (계획)
+## 📦 Skill 라인업 — 5종 모두 사용 가능 ✅
 
-| # | Skill | 입력 | 출력 | 상태 |
-|---|---|---|---|---|
-| 1 | **보고서 요약기** | 한국어 업무 보고서 | 3줄 요약 + 액션 5개 + 소셜카드 문장 | 🟢 제작 중 |
-| 2 | 카드뉴스 생성기 | 주제/키워드 | 인스타 카드뉴스 5장 구성안 | ⚪ 예정 |
-| 3 | 회의록 정리기 | 회의 녹취/메모 | 결정사항·액션아이템·담당자 | ⚪ 예정 |
-| 4 | 이메일 작성기 | 상황/요점 | 비즈니스 한국어 이메일 (격식별) | ⚪ 예정 |
-| 5 | 코드리뷰 한글화 | 코드 diff | 한국어 리뷰 코멘트 | ⚪ 예정 |
+| # | Skill | 입력 | 출력 |
+|---|---|---|---|
+| 1 | [**보고서 요약기**](skills/korean-report-summarizer/) | 한국어 업무 보고서 | 3줄 요약 + 액션 5개 + 소셜카드 문장 |
+| 2 | [**카드뉴스 생성기**](skills/korean-cardnews-generator/) | 주제/키워드/긴 글 | 인스타 카드뉴스 7~9장 구성안 |
+| 3 | [**회의록 정리기**](skills/korean-meeting-notes/) | 회의 녹취/메모 | 결정사항·액션(담당·기한)·미결 |
+| 4 | [**이메일 작성기**](skills/korean-email-writer/) | 상황/요점 | 격식별 비즈니스 한국어 이메일 |
+| 5 | [**코드리뷰 한글화**](skills/korean-code-review/) | 코드/diff | 버그·보안·개선 한국어 리뷰 |
+
+👉 **설치 방법:** [docs/INSTALL.md](docs/INSTALL.md) — Claude Code / Claude.ai / API 모두 지원
 
 ---
 

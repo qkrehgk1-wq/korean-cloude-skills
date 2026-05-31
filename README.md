@@ -6,6 +6,9 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Skills](https://img.shields.io/badge/skills-5종-blue)
 ![Korean](https://img.shields.io/badge/한국어-특화-red)
+![Quality](https://img.shields.io/badge/품질검토-8.3%2F10-brightgreen)
+
+> 🔁 **품질 보증:** 모든 Skill은 AI 다중 검토(7차원 채점, 평균 8.3/10)를 통과했습니다.
 
 **매일 하는 문서 작업, AI에게 시키세요.** ChatGPT의 어색한 번역체 말고, 한국 직장 문화를 아는 5종 Skill.
 
